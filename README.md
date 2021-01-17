@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lauro</h1>
 <h3 align="center">A passionate Python and JavaScript (and a little of design) developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laurohbrant&label=Profile%20views&color=0e75b6&style=flat" alt="laurohbrant" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurohbrant" alt="laurohbrant" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/freakotaku" target="blank"><img src="https://img.shields.io/twitter/follow/freakotaku?logo=twitter&style=for-the-badge" alt="freakotaku" /></a> </p>
-
 - 🔭 I’m currently working on **my python course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
