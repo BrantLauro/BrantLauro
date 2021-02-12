@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **brantlauro@gmail.com**
 
-- ⚡ Fun fact: **I like so much reading, basketball and skateboarding**
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
