@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauro</h1>
 <h3 align="center">A passionate Python (and a little of design) developer from Brazil</h3>
 
-- 🔭 I’m currently working on **my Python Course**
+- 🔭 I’m currently working on my **Python Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
