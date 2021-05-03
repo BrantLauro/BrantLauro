@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lauro</h1>
 <h3 align="center">A passionate Python (and a little of design) developer from Brazil</h3>
-
+<div align= "center">
 - 🔭 I’m currently working on my **Python Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
@@ -10,6 +10,7 @@
 - 📫 How to reach me: **brantlauro@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
