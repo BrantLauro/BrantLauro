@@ -27,3 +27,5 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=LauroBrant&style=flat&color=blue"></div>
