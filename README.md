@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lauro</h1>
+<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**
@@ -41,7 +41,7 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
 <p align= "center">
