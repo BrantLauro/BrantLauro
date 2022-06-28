@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Indie Games**
 
-- 📫 How to reach me: **[Click Here](https://keepo.io/brantgamedev/)**
+- 📫 How to reach me: **[Click Here](https://keepo.io/brantlauro/)**
 
 - ⚡ What I like to do: **I like so much reading, gaming and drawing**
 
