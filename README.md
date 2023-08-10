@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **graduation**
 
-- 🌱 I’m currently learning **C Programming Language and Computer Science basics**
+- 🌱 I’m currently learning **OOP with Java and Computer Science basics**
 
 - 👯 I’m looking to collaborate on **amazing open source projects**
 
