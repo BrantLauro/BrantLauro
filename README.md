@@ -49,5 +49,5 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&langs_count=6&layout=compact&hide=yacc,gdscript,cmake,html,css" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&langs_count=5&layout=compact&hide=yacc,gdscript,cmake,html,css" />
 </p>
