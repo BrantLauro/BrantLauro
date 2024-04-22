@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Software Engineering student from Brazil</h3>
 
-- 🔭 I’m currently working on my **graduation**
+- 🔭 I’m currently working on my **graduation** and as an intern on **Unimontes DTI**
 
-- 🌱 I’m currently learning **OOP with Java and Computer Science basics**
+- 🌱 I’m currently learning **Web Development with Laravel 🐘**
 
 - 👯 I’m looking to collaborate on **amazing open source projects**
 
@@ -24,20 +24,26 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://docs.oracle.com/en/java/" target="_blank"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <a href="https://laravel.com/docs/11.x" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  alt="php" width="40" height="40"/>
   </a>
-   <a href="https://devdocs.io/c/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <a href="https://www.php.net/docs.php" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+    <a href="https://devdocs.io/c/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
