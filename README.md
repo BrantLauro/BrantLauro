@@ -24,37 +24,37 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://laravel.com/docs/11.x" target="_blank"> 
+  <a href="https://laravel.com/docs/11.x" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  alt="php" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net/docs.php" target="_blank"> 
+  <a href="https://www.php.net/docs.php" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  alt="php" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.javascript.com/" target="_blank"> 
+  <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"> 
+  <a href="https://docs.oracle.com/en/java/" target="_blank" style="text-decoration: none"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-    <a href="https://devdocs.io/c/" target="_blank"> 
+    <a href="https://devdocs.io/c/" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+  <a href="https://dev.mysql.com/doc/" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank"> 
+  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
