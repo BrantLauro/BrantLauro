@@ -30,8 +30,9 @@
   </a>
 </p>
 
+<h3 align="center">GitHub Stats:</h3>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=dark&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=dark&langs_count=5&layout=compact&hide=yacc,c%2B%2B,gdscript,cmake,html,css,blade" />
 </p>
