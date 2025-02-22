@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3>A passionate Software Engineering student from Brazil</h3>
+<h3>A passionate Software Engineering student Brazil</h3>
 
-- 🔭 I’m currently working on my **graduation** and as an intern on **Unimontes DTI**
+- 🔭 I’m currently working on my **graduation** and as an Web Developer intern on **Unimontes DTI**
 
 - 🌱 I’m currently learning **Web Development with Laravel 🐘**
 
