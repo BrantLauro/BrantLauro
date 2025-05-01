@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **graduation** and as an Web Developer intern on **Unimontes DTI**
 
-- 🌱 I’m currently learning **Web Development with Laravel 🐘**
+- 🌱 I’m currently learning **Web Development with Node and Next.js**⚡
 
 - 👯 I’m looking to collaborate on **amazing open source projects**
 
